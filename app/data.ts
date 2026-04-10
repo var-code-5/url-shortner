@@ -17,5 +17,7 @@ export const links: Record<string, string> = {
   "dia-zing-booster": "https://example.com/dia-zing-booster",
   "dia-nourish": "https://example.com/dia-nourish",
   "dia-breaklite": "https://example.com/dia-breaklite",
-  "diabetic-slurp": "https://example.com/diabetic-slurp"
+  "diabetic-slurp": "https://example.com/diabetic-slurp",
+
+  "mid-fuel":"https://example.com/mid-fuel",
 };
