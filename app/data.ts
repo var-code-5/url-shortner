@@ -21,4 +21,5 @@ export const links: Record<string, string> = {
 
   "mid-fuel":"https://example.com/mid-fuel",
   "daily-smart-rice":"https://example.com/daily-smart-rice"
+  "paruthi-paal":"https://example.com/paruthi-paal"  
 };
