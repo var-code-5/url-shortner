@@ -26,4 +26,10 @@ export const links: Record<string, string> = {
   //mid fule info:
   "mid-fuel-info":"http://nammamurungai.com/product.php",
   "native-harvest":"https://example.com/native-harvest",
+
+  "her-eeze": "https://example.com/her-eeze",
+  "fit-o-meal": "https://example.com/fit-o-meal",
+  "gut-o-meal": "https://example.com/gut-o-meal",
+  "diabetic-slurp": "https://example.com/diabetic-slurp",
+  "dia-energetic-latte": "https://example.com/dia-energetic-latte",
 };
